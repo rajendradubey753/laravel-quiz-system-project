@@ -1,3 +1,4 @@
+<img width="1349" height="610" alt="Screenshot 2026-04-08 222321" src="https://github.com/user-attachments/assets/eae10121-26b7-4b72-81f6-871b96bc0e3a" />
 Laravel Sanctum
 What is Laravel Sanctum ? Laravel Sanctum provides a featherweight authentication system for SPAs (single page applications), mobile applications, and simple, token based APIs. Sanctum allows each user of your application to generate multiple API tokens for their account. These tokens may be granted abilities / scopes which specify which actions the tokens are allowed to perform..
 
@@ -111,3 +112,4 @@ Route::group(['middleware' => 'auth:sanctum'], function(){
 
 
 Route::post("login",[UserController::class,'index']);
+<img width="1349" height="610" alt="Screenshot 2026-04-08 222321" src="https://github.com/user-attachments/assets/a222a24e-b7b4-40df-9835-2d54bfdbcf1b" />
